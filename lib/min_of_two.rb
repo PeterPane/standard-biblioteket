@@ -2,8 +2,6 @@
 #
 # n1 - One of the two possible smallest numbers.
 # n2 - One of the two possible smallest numbers.
-# n3 - One of the two possible smallest numbers.
-# n4 - One of the two possible smallest numbers.
 #
 # Examples
 #

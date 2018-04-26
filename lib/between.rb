@@ -1,6 +1,6 @@
 # Public: Checks if a number is in between two others 
 #
-# first  - The number to check if it is in between
+# first  - The number to check if it is in between the others
 # second - The lower limit to check against
 # third - The upper limit to check against
 #

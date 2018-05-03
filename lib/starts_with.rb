@@ -1,5 +1,5 @@
 
-# Public: Checks if a string is begings with a characther
+# Public: Checks if a string begins with a characther
 #
 # string - The string to check
 # char - The charecther to check with

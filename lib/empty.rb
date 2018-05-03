@@ -10,7 +10,7 @@
 #
 # Returns true or false
 
-def average(list)
+def average(string)
     if list == ""
         ans = true
     else 

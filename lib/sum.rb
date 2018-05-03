@@ -1,6 +1,6 @@
 # Public: Adds togheter the number in an array
 #
-# list - The lists of sums you want to add togheter
+# list - The lists of intergers you want to add togheter
  
 #
 # Examples

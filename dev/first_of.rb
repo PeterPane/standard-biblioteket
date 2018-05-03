@@ -9,12 +9,8 @@
 #
 # Returns the first element in the list
 
-def first_of(list)
-    i=0
-    ans =""
-    while list[i] != ","
-        ans[i] = list[i] 
-        i+=1
-    end
-   return ans
+def last_of(list)
+    return list[0]
 end
+
+ 

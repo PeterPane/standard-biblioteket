@@ -1,6 +1,6 @@
 # Public: Checks if a string is empty
 #
-# list - The lists to check if it is empty
+# string - The string to check if it is empty
 #
 # Examples
 #

@@ -14,7 +14,7 @@ def exclude(array,filt)
     i = 0
     while i < array.length
         if array[i]==filt
-            array.delete_at(i)
+            ans.delete_at(i)
             i -=1
         end
         i+=1
